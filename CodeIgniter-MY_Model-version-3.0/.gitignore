@@ -1,0 +1,13 @@
+config/doctypes.php
+cache
+config
+libraries
+hooks
+third_party
+logs
+language
+helpers
+views/errors
+.htaccess
+controllers/Matches.php
+views/matches_templates
